@@ -1,0 +1,154 @@
+BoW
+======== RandomForest ========
+F1-score: 0.6030577576443941
+Accuracy: 0.6343244653103808
+Precision: 0.6570018507094386
+Recall: 0.5572998430141287
+======== GaussianNB ========
+F1-score: 0.63153173357255
+Accuracy: 0.5714658320292123
+Precision: 0.5525902668759811
+Recall: 0.7367870225013082
+======== LinearSVC ========
+F1-score: 0.6267454350161118
+Accuracy: 0.6374543557642149
+Precision: 0.643684500827358
+Recall: 0.6106750392464678
+======== Decision Tree ========
+F1-score: 0.5781292609762748
+Accuracy: 0.5965049556598853
+Precision: 0.6036446469248291
+Recall: 0.554683411826269
+
+BoW | GloVe
+======== RandomForest ========
+F1-score: 0.6346351490236383
+Accuracy: 0.6291079812206573
+Precision: 0.6234225138818779
+Recall: 0.6462585034013606
+======== GaussianNB ========
+F1-score: 0.6313663899483958
+Accuracy: 0.5714658320292123
+Precision: 0.5526315789473685
+Recall: 0.7362637362637363
+======== LinearSVC ========
+F1-score: 0.6429896633978266
+Accuracy: 0.6486697965571205
+Precision: 0.6514500537056928
+Recall: 0.6347462061747776
+======== Decision Tree ========
+F1-score: 0.5650038769707935
+Accuracy: 0.5610328638497653
+Precision: 0.5582226762002043
+Recall: 0.5719518576661434
+
+BoW | GloVe | Sentiment
+======== RandomForest ========
+F1-score: 0.6370217166494312
+Accuracy: 0.6338028169014085
+Precision: 0.629535002554931
+Recall: 0.6446886446886447
+======== GaussianNB ========
+F1-score: 0.6313663899483958
+Accuracy: 0.5714658320292123
+Precision: 0.5526315789473685
+Recall: 0.7362637362637363
+======== LinearSVC ========
+F1-score: 0.6400211752249868
+Accuracy: 0.6452790818988002
+Precision: 0.6475629351901446
+Recall: 0.6326530612244898
+======== Decision Tree ========
+F1-score: 0.5518141477421039
+Accuracy: 0.5521648408972353
+Precision: 0.5505208333333333
+Recall: 0.5531135531135531
+
+BoW | GloVe | Sentiment | Punctuations
+======== RandomForest ========
+F1-score: 0.6303156796243152
+Accuracy: 0.6304121022430882
+Precision: 0.6285119667013528
+Recall: 0.6321297749869178
+======== GaussianNB ========
+F1-score: 0.631508078994614
+Accuracy: 0.5717266562336984
+Precision: 0.5528487229862475
+Recall: 0.7362637362637363
+======== LinearSVC ========
+F1-score: 0.6413100898045431
+Accuracy: 0.6458007303077725
+Precision: 0.6474666666666666
+Recall: 0.6352694924123495
+======== Decision Tree ========
+F1-score: 0.552892131318395
+Accuracy: 0.5524256651017214
+Precision: 0.5505967825635704
+Recall: 0.5552066980638409
+
+BoW | GloVe | Sentiment | Punctuations | POS
+======== RandomForest ========
+F1-score: 0.6302433972035215
+Accuracy: 0.6275430359937402
+Precision: 0.6237826755509995
+Recall: 0.6368393511250654
+======== GaussianNB ========
+F1-score: 0.6302048165653836
+Accuracy: 0.5714658320292123
+Precision: 0.5529225908372828
+Recall: 0.7326007326007326
+======== LinearSVC ========
+F1-score: 0.6331328594860579
+Accuracy: 0.6499739175795514
+Precision: 0.6628506010303378
+Recall: 0.6059654631083202
+======== Decision Tree ========
+F1-score: 0.5598951507208388
+Accuracy: 0.5620761606677099
+Precision: 0.5609243697478992
+Recall: 0.5588697017268446
+
+BoW | GloVe | Sentiment | Punctuations | POS | Synonym
+======== RandomForest ========
+F1-score: 0.6404755750840011
+Accuracy: 0.6371935315597287
+Precision: 0.6327885597548519
+Recall: 0.6483516483516484
+======== GaussianNB ========
+F1-score: 0.6289449954914337
+Accuracy: 0.5706833594157538
+Precision: 0.5524752475247525
+Recall: 0.7299843014128728
+======== LinearSVC ========
+F1-score: 0.5612323491655969
+Accuracy: 0.5542514345331246
+Precision: 0.5509072580645161
+Recall: 0.5719518576661434
+======== Decision Tree ========
+F1-score: 0.5628299894403379
+Accuracy: 0.568075117370892
+Precision: 0.5679275439531166
+Recall: 0.5578231292517006
+
+BoW | GloVe | Sentiment | Punctuations | POS | Synonym | Frequent Words
+======== RandomForest ========
+F1-score: 0.6383089770354906
+Accuracy: 0.6384976525821596
+Precision: 0.6366475793857366
+Recall: 0.6399790685504971
+======== GaussianNB ========
+F1-score: 0.5726415094339622
+Accuracy: 0.5273865414710485
+Precision: 0.5212537569772434
+Recall: 0.6352694924123495
+======== LinearSVC ========
+F1-score: 0.5266977708657334
+Accuracy: 0.523735002608242
+Precision: 0.5218284540318439
+Recall: 0.531658817373103
+======== Decision Tree ========
+F1-score: 0.5673575129533679
+Accuracy: 0.5644235785080856
+Precision: 0.5618265777321704
+Recall: 0.5729984301412873
+
